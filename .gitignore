@@ -1,0 +1,19 @@
+# backup files
+*.bak
+
+# simulation outputs
+*.vcd
+*.wlf
+
+# modelsim / questa
+work/
+*.log
+*.jou
+
+# project files
+*.mpf
+*.cr.mti
+
+# temp
+*.tmp
+*.cache
