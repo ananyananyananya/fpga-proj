@@ -1,0 +1,50 @@
+C:/Users/asrid/fpgaproj/inventory_ram.v {1 {vlog -work work -stats=none C:/Users/asrid/fpgaproj/inventory_ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module inventory_ram
+
+Top level modules:
+	inventory_ram
+
+} {} {}} C:/Users/asrid/fpgaproj/tb_smart_vending.v {1 {vlog -work work -stats=none C:/Users/asrid/fpgaproj/tb_smart_vending.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_smart_vending
+
+Top level modules:
+	tb_smart_vending
+
+} {} {}} C:/Users/asrid/fpgaproj/vending_controller.v {1 {vlog -work work -stats=none C:/Users/asrid/fpgaproj/vending_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vending_controller
+
+Top level modules:
+	vending_controller
+
+} {} {}} C:/Users/asrid/fpgaproj/payment_fsm.v {1 {vlog -work work -stats=none C:/Users/asrid/fpgaproj/payment_fsm.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module payment_fsm
+
+Top level modules:
+	payment_fsm
+
+} {} {}} C:/Users/asrid/fpgaproj/pricing_unit.v {1 {vlog -work work -stats=none C:/Users/asrid/fpgaproj/pricing_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module pricing_unit
+
+Top level modules:
+	pricing_unit
+
+} {} {}} C:/Users/asrid/fpgaproj/smart_vending_top.v {1 {vlog -work work -stats=none C:/Users/asrid/fpgaproj/smart_vending_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module smart_vending_top
+
+Top level modules:
+	smart_vending_top
+
+} {} {}} C:/Users/asrid/fpgaproj/tx_fifo.v {1 {vlog -work work -stats=none C:/Users/asrid/fpgaproj/tx_fifo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tx_fifo
+
+Top level modules:
+	tx_fifo
+
+} {} {}}
